@@ -1,0 +1,6 @@
+C:\Users\adamj\OneDrive\Skrivbord\Lab1Library\Lab1Library\bin\Debug\Lab1Library.dll
+C:\Users\adamj\OneDrive\Skrivbord\Lab1Library\Lab1Library\bin\Debug\Lab1Library.pdb
+C:\Users\adamj\OneDrive\Skrivbord\Lab1Library\Lab1Library\obj\Debug\Lab1Library.csprojAssemblyReference.cache
+C:\Users\adamj\OneDrive\Skrivbord\Lab1Library\Lab1Library\obj\Debug\Lab1Library.csproj.CoreCompileInputs.cache
+C:\Users\adamj\OneDrive\Skrivbord\Lab1Library\Lab1Library\obj\Debug\Lab1Library.dll
+C:\Users\adamj\OneDrive\Skrivbord\Lab1Library\Lab1Library\obj\Debug\Lab1Library.pdb

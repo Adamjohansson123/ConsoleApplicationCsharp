@@ -1,0 +1,61 @@
+\\Mac\Home\Desktop\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\bin\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.exe
+\\Mac\Home\Desktop\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\bin\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.deps.json
+\\Mac\Home\Desktop\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\bin\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.runtimeconfig.json
+\\Mac\Home\Desktop\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\bin\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.runtimeconfig.dev.json
+\\Mac\Home\Desktop\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\bin\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.dll
+\\Mac\Home\Desktop\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\bin\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.pdb
+\\Mac\Home\Desktop\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\obj\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\obj\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\obj\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.AssemblyInfo.cs
+\\Mac\Home\Desktop\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\obj\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\obj\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.dll
+\\Mac\Home\Desktop\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\obj\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.pdb
+\\Mac\Home\Desktop\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\obj\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.genruntimeconfig.cache
+C:\Users\adamj\OneDrive\Skrivbord\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\bin\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.exe
+C:\Users\adamj\OneDrive\Skrivbord\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\bin\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.deps.json
+C:\Users\adamj\OneDrive\Skrivbord\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\bin\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.runtimeconfig.json
+C:\Users\adamj\OneDrive\Skrivbord\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\bin\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.runtimeconfig.dev.json
+C:\Users\adamj\OneDrive\Skrivbord\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\bin\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.dll
+C:\Users\adamj\OneDrive\Skrivbord\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\bin\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.pdb
+C:\Users\adamj\OneDrive\Skrivbord\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\obj\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.csprojAssemblyReference.cache
+C:\Users\adamj\OneDrive\Skrivbord\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\obj\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.AssemblyInfoInputs.cache
+C:\Users\adamj\OneDrive\Skrivbord\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\obj\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.AssemblyInfo.cs
+C:\Users\adamj\OneDrive\Skrivbord\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\obj\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.csproj.CoreCompileInputs.cache
+C:\Users\adamj\OneDrive\Skrivbord\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\obj\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.dll
+C:\Users\adamj\OneDrive\Skrivbord\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\obj\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.pdb
+C:\Users\adamj\OneDrive\Skrivbord\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\obj\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.genruntimeconfig.cache
+C:\Users\adamj\OneDrive\Skrivbord\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\bin\Debug\netcoreapp3.1\Lab1Library.dll
+C:\Users\adamj\OneDrive\Skrivbord\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\bin\Debug\netcoreapp3.1\Lab1Library.pdb
+C:\Users\adamj\OneDrive\Skrivbord\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\obj\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.csproj.CopyComplete
+C:\Users\adamj\OneDrive\Skrivbord\Lab1\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\bin\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.exe
+C:\Users\adamj\OneDrive\Skrivbord\Lab1\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\bin\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.deps.json
+C:\Users\adamj\OneDrive\Skrivbord\Lab1\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\bin\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.runtimeconfig.json
+C:\Users\adamj\OneDrive\Skrivbord\Lab1\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\bin\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.runtimeconfig.dev.json
+C:\Users\adamj\OneDrive\Skrivbord\Lab1\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\bin\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.dll
+C:\Users\adamj\OneDrive\Skrivbord\Lab1\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\bin\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.pdb
+C:\Users\adamj\OneDrive\Skrivbord\Lab1\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\bin\Debug\netcoreapp3.1\Lab1Library.dll
+C:\Users\adamj\OneDrive\Skrivbord\Lab1\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\bin\Debug\netcoreapp3.1\Lab1Library.pdb
+C:\Users\adamj\OneDrive\Skrivbord\Lab1\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\obj\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.csprojAssemblyReference.cache
+C:\Users\adamj\OneDrive\Skrivbord\Lab1\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\obj\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.AssemblyInfoInputs.cache
+C:\Users\adamj\OneDrive\Skrivbord\Lab1\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\obj\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.AssemblyInfo.cs
+C:\Users\adamj\OneDrive\Skrivbord\Lab1\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\obj\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.csproj.CoreCompileInputs.cache
+C:\Users\adamj\OneDrive\Skrivbord\Lab1\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\obj\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.csproj.CopyComplete
+C:\Users\adamj\OneDrive\Skrivbord\Lab1\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\obj\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.dll
+C:\Users\adamj\OneDrive\Skrivbord\Lab1\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\obj\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.pdb
+C:\Users\adamj\OneDrive\Skrivbord\Lab1\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\obj\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.genruntimeconfig.cache
+\\Mac\Home\Desktop\Avancerad programmering med C#\Lab1\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\bin\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.exe
+\\Mac\Home\Desktop\Avancerad programmering med C#\Lab1\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\bin\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.deps.json
+\\Mac\Home\Desktop\Avancerad programmering med C#\Lab1\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\bin\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.runtimeconfig.json
+\\Mac\Home\Desktop\Avancerad programmering med C#\Lab1\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\bin\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Avancerad programmering med C#\Lab1\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\bin\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.dll
+\\Mac\Home\Desktop\Avancerad programmering med C#\Lab1\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\bin\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.pdb
+\\Mac\Home\Desktop\Avancerad programmering med C#\Lab1\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\bin\Debug\netcoreapp3.1\Lab1Library.dll
+\\Mac\Home\Desktop\Avancerad programmering med C#\Lab1\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\bin\Debug\netcoreapp3.1\Lab1Library.pdb
+\\Mac\Home\Desktop\Avancerad programmering med C#\Lab1\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\obj\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Avancerad programmering med C#\Lab1\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\obj\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Avancerad programmering med C#\Lab1\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\obj\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.AssemblyInfo.cs
+\\Mac\Home\Desktop\Avancerad programmering med C#\Lab1\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\obj\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Avancerad programmering med C#\Lab1\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\obj\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.csproj.CopyComplete
+\\Mac\Home\Desktop\Avancerad programmering med C#\Lab1\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\obj\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.dll
+\\Mac\Home\Desktop\Avancerad programmering med C#\Lab1\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\obj\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.pdb
+\\Mac\Home\Desktop\Avancerad programmering med C#\Lab1\AdvanceradProgrammeringLab1\AdvanceradProgrammeringLab1\obj\Debug\netcoreapp3.1\AdvanceradProgrammeringLab1.genruntimeconfig.cache
